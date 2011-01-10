@@ -1,0 +1,51 @@
+#topBar{
+    background-color: #DDD;
+    float:right;
+    clear:both;
+}
+#navBar{
+    background-color: #EEE;
+    clear:right;
+    position:relative;
+}
+
+#logo{
+    top:-20px;
+    float:left;
+}
+
+#navBar ul{
+    float:right;
+    width:400px;
+
+}
+#navBar li{
+    background-color: #AAA;
+    float:left;
+    list-style-type:none;
+    width:10%;
+    border-bottom:10px solid red;
+    margin:10px;
+
+}
+#content{
+    background-color: #BBB;
+    height:100%;
+    width:100%;
+}
+#left {
+    float:left;
+    clear:right;
+    width:20%;
+}
+#right{
+    float:left;
+    width:70%;
+}
+#footer{
+    clear:both;
+    
+}
+.categoryImage{
+    clear:right;
+}
